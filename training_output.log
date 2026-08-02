@@ -1,0 +1,500 @@
+﻿E  1/500 | Loss:4.2306 | TrA:38.29% TrF1:38.29% | VAcc:46.25% VF1:46.25% | ETA:218.7min | BestVAcc:46.25%
+E  2/500 | Loss:0.7761 | TrA:45.89% TrF1:45.89% | VAcc:33.75% VF1:33.75% | ETA:206.5min | BestVAcc:46.25%
+E  3/500 | Loss:0.7243 | TrA:49.37% TrF1:49.37% | VAcc:43.75% VF1:43.75% | ETA:204.4min | BestVAcc:46.25%
+E  4/500 | Loss:0.7276 | TrA:50.95% TrF1:50.95% | VAcc:38.75% VF1:38.75% | ETA:200.2min | BestVAcc:46.25%
+E  5/500 | Loss:0.7113 | TrA:49.37% TrF1:49.37% | VAcc:42.50% VF1:42.50% | ETA:197.5min | BestVAcc:46.25%
+E  6/500 | Loss:0.6551 | TrA:54.11% TrF1:54.11% | VAcc:32.50% VF1:32.50% | ETA:195.5min | BestVAcc:46.25%
+E  7/500 | Loss:0.6335 | TrA:52.53% TrF1:52.53% | VAcc:46.25% VF1:46.25% | ETA:194.2min | BestVAcc:46.25%
+E  8/500 | Loss:0.5778 | TrA:54.11% TrF1:54.11% | VAcc:48.75% VF1:48.75% | ETA:192.9min | BestVAcc:48.75%
+E  9/500 | Loss:0.5973 | TrA:56.33% TrF1:56.33% | VAcc:43.75% VF1:43.75% | ETA:191.9min | BestVAcc:48.75%
+E 10/500 | Loss:0.7507 | TrA:53.80% TrF1:53.80% | VAcc:38.75% VF1:38.75% | ETA:191.2min | BestVAcc:48.75%
+E 11/500 | Loss:1.0859 | TrA:41.14% TrF1:41.14% | VAcc:41.25% VF1:41.25% | ETA:188.7min | BestVAcc:48.75%
+E 12/500 | Loss:0.7279 | TrA:50.00% TrF1:50.00% | VAcc:45.00% VF1:45.00% | ETA:188.4min | BestVAcc:48.75%
+E 13/500 | Loss:0.6499 | TrA:54.43% TrF1:54.43% | VAcc:47.50% VF1:47.50% | ETA:187.1min | BestVAcc:48.75%
+E 14/500 | Loss:0.5767 | TrA:55.70% TrF1:55.70% | VAcc:51.25% VF1:51.25% | ETA:186.8min | BestVAcc:51.25%
+E 15/500 | Loss:0.5771 | TrA:57.28% TrF1:57.28% | VAcc:46.25% VF1:46.25% | ETA:186.6min | BestVAcc:51.25%
+E 16/500 | Loss:0.6141 | TrA:57.59% TrF1:57.59% | VAcc:47.50% VF1:47.50% | ETA:186.4min | BestVAcc:51.25%
+E 17/500 | Loss:1.0247 | TrA:53.80% TrF1:53.80% | VAcc:27.50% VF1:27.50% | ETA:186.0min | BestVAcc:51.25%
+E 18/500 | Loss:0.5650 | TrA:59.49% TrF1:59.49% | VAcc:47.50% VF1:47.50% | ETA:185.8min | BestVAcc:51.25%
+E 19/500 | Loss:0.5380 | TrA:61.39% TrF1:61.39% | VAcc:52.50% VF1:52.50% | ETA:185.6min | BestVAcc:52.50%
+E 20/500 | Loss:0.5822 | TrA:55.06% TrF1:55.06% | VAcc:51.25% VF1:51.25% | ETA:185.1min | BestVAcc:52.50%
+E 21/500 | Loss:0.5146 | TrA:63.29% TrF1:63.29% | VAcc:47.50% VF1:47.50% | ETA:184.1min | BestVAcc:52.50%
+E 22/500 | Loss:0.5896 | TrA:60.76% TrF1:60.76% | VAcc:51.25% VF1:51.25% | ETA:183.7min | BestVAcc:52.50%
+E 23/500 | Loss:0.5095 | TrA:62.66% TrF1:62.66% | VAcc:51.25% VF1:51.25% | ETA:185.5min | BestVAcc:52.50%
+E 24/500 | Loss:0.5344 | TrA:63.92% TrF1:63.92% | VAcc:55.00% VF1:55.00% | ETA:186.5min | BestVAcc:55.00%
+E 25/500 | Loss:0.4995 | TrA:65.19% TrF1:65.19% | VAcc:58.75% VF1:58.75% | ETA:186.8min | BestVAcc:58.75%
+E 26/500 | Loss:0.4139 | TrA:68.04% TrF1:68.04% | VAcc:60.00% VF1:60.00% | ETA:187.2min | BestVAcc:60.00%
+E 27/500 | Loss:0.4047 | TrA:68.67% TrF1:68.67% | VAcc:52.50% VF1:52.50% | ETA:187.5min | BestVAcc:60.00%
+E 28/500 | Loss:0.5764 | TrA:55.38% TrF1:55.38% | VAcc:53.75% VF1:53.75% | ETA:187.4min | BestVAcc:60.00%
+E 29/500 | Loss:0.3902 | TrA:69.30% TrF1:69.30% | VAcc:53.75% VF1:53.75% | ETA:187.2min | BestVAcc:60.00%
+E 30/500 | Loss:0.3661 | TrA:71.84% TrF1:71.84% | VAcc:62.50% VF1:62.50% | ETA:187.5min | BestVAcc:62.50%
+E 31/500 | Loss:0.2743 | TrA:75.63% TrF1:75.63% | VAcc:71.25% VF1:71.25% | ETA:187.5min | BestVAcc:71.25%
+E 32/500 | Loss:0.1936 | TrA:80.06% TrF1:80.06% | VAcc:53.75% VF1:53.75% | ETA:187.0min | BestVAcc:71.25%
+E 33/500 | Loss:0.3534 | TrA:70.57% TrF1:70.57% | VAcc:57.50% VF1:57.50% | ETA:184.9min | BestVAcc:71.25%
+E 34/500 | Loss:0.4131 | TrA:68.35% TrF1:68.35% | VAcc:48.75% VF1:48.75% | ETA:183.4min | BestVAcc:71.25%
+E 35/500 | Loss:0.4821 | TrA:62.97% TrF1:62.97% | VAcc:62.50% VF1:62.50% | ETA:182.8min | BestVAcc:71.25%
+E 36/500 | Loss:0.2375 | TrA:74.68% TrF1:74.68% | VAcc:70.00% VF1:70.00% | ETA:182.7min | BestVAcc:71.25%
+E 37/500 | Loss:0.1784 | TrA:80.70% TrF1:80.70% | VAcc:67.50% VF1:67.50% | ETA:182.5min | BestVAcc:71.25%
+E 38/500 | Loss:0.2428 | TrA:76.90% TrF1:76.90% | VAcc:62.50% VF1:62.50% | ETA:182.5min | BestVAcc:71.25%
+E 39/500 | Loss:0.1880 | TrA:79.75% TrF1:79.75% | VAcc:76.25% VF1:76.25% | ETA:182.5min | BestVAcc:76.25%
+E 40/500 | Loss:0.1872 | TrA:81.96% TrF1:81.96% | VAcc:63.75% VF1:63.75% | ETA:182.3min | BestVAcc:76.25%
+E 41/500 | Loss:0.1595 | TrA:79.11% TrF1:79.11% | VAcc:70.00% VF1:70.00% | ETA:182.2min | BestVAcc:76.25%
+E 42/500 | Loss:0.1615 | TrA:82.91% TrF1:82.91% | VAcc:70.00% VF1:70.00% | ETA:182.2min | BestVAcc:76.25%
+E 43/500 | Loss:0.1243 | TrA:85.13% TrF1:85.13% | VAcc:72.50% VF1:72.50% | ETA:182.0min | BestVAcc:76.25%
+E 44/500 | Loss:0.2722 | TrA:74.05% TrF1:74.05% | VAcc:76.25% VF1:76.25% | ETA:182.0min | BestVAcc:76.25%
+E 45/500 | Loss:0.1661 | TrA:81.33% TrF1:81.33% | VAcc:75.00% VF1:75.00% | ETA:182.1min | BestVAcc:76.25%
+E 46/500 | Loss:0.1143 | TrA:84.18% TrF1:84.18% | VAcc:80.00% VF1:80.00% | ETA:181.3min | BestVAcc:80.00%
+E 47/500 | Loss:0.0889 | TrA:89.24% TrF1:89.24% | VAcc:78.75% VF1:78.75% | ETA:180.9min | BestVAcc:80.00%
+E 48/500 | Loss:0.3017 | TrA:75.95% TrF1:75.95% | VAcc:68.75% VF1:68.75% | ETA:180.6min | BestVAcc:80.00%
+E 49/500 | Loss:0.1444 | TrA:82.91% TrF1:82.91% | VAcc:77.50% VF1:77.50% | ETA:180.3min | BestVAcc:80.00%
+E 50/500 | Loss:0.0782 | TrA:90.51% TrF1:90.51% | VAcc:81.25% VF1:81.25% | ETA:180.0min | BestVAcc:81.25%
+E 51/500 | Loss:0.0779 | TrA:87.66% TrF1:87.66% | VAcc:71.25% VF1:71.25% | ETA:179.8min | BestVAcc:81.25%
+E 52/500 | Loss:0.0646 | TrA:88.92% TrF1:88.92% | VAcc:78.75% VF1:78.75% | ETA:179.3min | BestVAcc:81.25%
+E 53/500 | Loss:0.1203 | TrA:85.76% TrF1:85.76% | VAcc:78.75% VF1:78.75% | ETA:179.0min | BestVAcc:81.25%
+E 54/500 | Loss:0.0615 | TrA:90.51% TrF1:90.51% | VAcc:78.75% VF1:78.75% | ETA:178.5min | BestVAcc:81.25%
+E 55/500 | Loss:0.0953 | TrA:87.97% TrF1:87.97% | VAcc:70.00% VF1:70.00% | ETA:178.0min | BestVAcc:81.25%
+E 56/500 | Loss:0.2644 | TrA:74.05% TrF1:74.05% | VAcc:78.75% VF1:78.75% | ETA:177.6min | BestVAcc:81.25%
+E 57/500 | Loss:0.2304 | TrA:78.80% TrF1:78.80% | VAcc:63.75% VF1:63.75% | ETA:177.0min | BestVAcc:81.25%
+E 58/500 | Loss:0.1521 | TrA:84.49% TrF1:84.49% | VAcc:77.50% VF1:77.50% | ETA:176.6min | BestVAcc:81.25%
+E 59/500 | Loss:0.0757 | TrA:88.61% TrF1:88.61% | VAcc:80.00% VF1:80.00% | ETA:176.6min | BestVAcc:81.25%
+E 60/500 | Loss:0.0702 | TrA:90.19% TrF1:90.19% | VAcc:81.25% VF1:81.25% | ETA:176.4min | BestVAcc:81.25%
+E 61/500 | Loss:0.0684 | TrA:89.87% TrF1:89.87% | VAcc:76.25% VF1:76.25% | ETA:175.9min | BestVAcc:81.25%
+E 62/500 | Loss:0.0552 | TrA:90.19% TrF1:90.19% | VAcc:82.50% VF1:82.50% | ETA:175.7min | BestVAcc:82.50%
+E 63/500 | Loss:0.0384 | TrA:94.30% TrF1:94.30% | VAcc:81.25% VF1:81.25% | ETA:175.4min | BestVAcc:82.50%
+E 64/500 | Loss:0.0739 | TrA:88.92% TrF1:88.92% | VAcc:85.00% VF1:85.00% | ETA:175.2min | BestVAcc:85.00%
+E 65/500 | Loss:0.1124 | TrA:83.23% TrF1:83.23% | VAcc:78.75% VF1:78.75% | ETA:175.0min | BestVAcc:85.00%
+E 66/500 | Loss:0.0690 | TrA:92.09% TrF1:92.09% | VAcc:82.50% VF1:82.50% | ETA:174.9min | BestVAcc:85.00%
+E 67/500 | Loss:0.0871 | TrA:89.87% TrF1:89.87% | VAcc:77.50% VF1:77.50% | ETA:174.5min | BestVAcc:85.00%
+E 68/500 | Loss:0.0865 | TrA:90.19% TrF1:90.19% | VAcc:78.75% VF1:78.75% | ETA:174.3min | BestVAcc:85.00%
+E 69/500 | Loss:0.2048 | TrA:83.86% TrF1:83.86% | VAcc:80.00% VF1:80.00% | ETA:173.6min | BestVAcc:85.00%
+E 70/500 | Loss:0.0648 | TrA:88.61% TrF1:88.61% | VAcc:81.25% VF1:81.25% | ETA:173.3min | BestVAcc:85.00%
+E 71/500 | Loss:0.0434 | TrA:92.41% TrF1:92.41% | VAcc:85.00% VF1:85.00% | ETA:172.9min | BestVAcc:85.00%
+E 72/500 | Loss:0.0489 | TrA:93.99% TrF1:93.99% | VAcc:85.00% VF1:85.00% | ETA:172.4min | BestVAcc:85.00%
+E 73/500 | Loss:0.0370 | TrA:93.67% TrF1:93.67% | VAcc:86.25% VF1:86.25% | ETA:171.9min | BestVAcc:86.25%
+E 74/500 | Loss:0.3117 | TrA:77.53% TrF1:77.53% | VAcc:61.25% VF1:61.25% | ETA:171.5min | BestVAcc:86.25%
+E 75/500 | Loss:0.2007 | TrA:80.38% TrF1:80.38% | VAcc:76.25% VF1:76.25% | ETA:171.1min | BestVAcc:86.25%
+E 76/500 | Loss:0.1375 | TrA:87.34% TrF1:87.34% | VAcc:80.00% VF1:80.00% | ETA:170.6min | BestVAcc:86.25%
+E 77/500 | Loss:0.0606 | TrA:92.09% TrF1:92.09% | VAcc:82.50% VF1:82.50% | ETA:170.2min | BestVAcc:86.25%
+E 78/500 | Loss:0.0462 | TrA:92.72% TrF1:92.72% | VAcc:85.00% VF1:85.00% | ETA:169.8min | BestVAcc:86.25%
+E 79/500 | Loss:0.2303 | TrA:81.01% TrF1:81.01% | VAcc:80.00% VF1:80.00% | ETA:169.3min | BestVAcc:86.25%
+E 80/500 | Loss:0.0730 | TrA:89.87% TrF1:89.87% | VAcc:76.25% VF1:76.25% | ETA:168.6min | BestVAcc:86.25%
+E 81/500 | Loss:0.0741 | TrA:91.14% TrF1:91.14% | VAcc:76.25% VF1:76.25% | ETA:168.2min | BestVAcc:86.25%
+E 82/500 | Loss:0.0499 | TrA:93.04% TrF1:93.04% | VAcc:85.00% VF1:85.00% | ETA:167.9min | BestVAcc:86.25%
+E 83/500 | Loss:0.0363 | TrA:95.57% TrF1:95.57% | VAcc:82.50% VF1:82.50% | ETA:167.5min | BestVAcc:86.25%
+E 84/500 | Loss:0.0500 | TrA:92.72% TrF1:92.72% | VAcc:82.50% VF1:82.50% | ETA:166.9min | BestVAcc:86.25%
+E 85/500 | Loss:0.0567 | TrA:93.67% TrF1:93.67% | VAcc:80.00% VF1:80.00% | ETA:166.5min | BestVAcc:86.25%
+E 86/500 | Loss:0.0651 | TrA:92.09% TrF1:92.09% | VAcc:73.75% VF1:73.75% | ETA:166.0min | BestVAcc:86.25%
+E 87/500 | Loss:0.1028 | TrA:90.51% TrF1:90.51% | VAcc:83.75% VF1:83.75% | ETA:165.7min | BestVAcc:86.25%
+E 88/500 | Loss:0.0574 | TrA:92.72% TrF1:92.72% | VAcc:83.75% VF1:83.75% | ETA:165.1min | BestVAcc:86.25%
+E 89/500 | Loss:0.2017 | TrA:82.28% TrF1:82.28% | VAcc:60.00% VF1:60.00% | ETA:164.7min | BestVAcc:86.25%
+E 90/500 | Loss:0.1374 | TrA:86.71% TrF1:86.71% | VAcc:78.75% VF1:78.75% | ETA:164.2min | BestVAcc:86.25%
+E 91/500 | Loss:0.0545 | TrA:92.41% TrF1:92.41% | VAcc:82.50% VF1:82.50% | ETA:163.7min | BestVAcc:86.25%
+E 92/500 | Loss:0.0535 | TrA:93.04% TrF1:93.04% | VAcc:77.50% VF1:77.50% | ETA:163.4min | BestVAcc:86.25%
+E 93/500 | Loss:0.0495 | TrA:93.04% TrF1:93.04% | VAcc:82.50% VF1:82.50% | ETA:163.0min | BestVAcc:86.25%
+E 94/500 | Loss:0.0470 | TrA:95.89% TrF1:95.89% | VAcc:77.50% VF1:77.50% | ETA:162.7min | BestVAcc:86.25%
+E 95/500 | Loss:0.0221 | TrA:97.15% TrF1:97.15% | VAcc:81.25% VF1:81.25% | ETA:162.2min | BestVAcc:86.25%
+E 96/500 | Loss:0.0204 | TrA:97.15% TrF1:97.15% | VAcc:82.50% VF1:82.50% | ETA:161.8min | BestVAcc:86.25%
+E 97/500 | Loss:0.0171 | TrA:97.15% TrF1:97.15% | VAcc:82.50% VF1:82.50% | ETA:161.2min | BestVAcc:86.25%
+E 98/500 | Loss:0.0198 | TrA:98.10% TrF1:98.10% | VAcc:85.00% VF1:85.00% | ETA:160.9min | BestVAcc:86.25%
+E 99/500 | Loss:0.0214 | TrA:98.10% TrF1:98.10% | VAcc:80.00% VF1:80.00% | ETA:160.5min | BestVAcc:86.25%
+E100/500 | Loss:0.1044 | TrA:90.82% TrF1:90.82% | VAcc:80.00% VF1:80.00% | ETA:160.2min | BestVAcc:86.25%
+E101/500 | Loss:0.0729 | TrA:93.99% TrF1:93.99% | VAcc:75.00% VF1:75.00% | ETA:160.3min | BestVAcc:86.25%
+E102/500 | Loss:0.0342 | TrA:95.25% TrF1:95.25% | VAcc:80.00% VF1:80.00% | ETA:159.8min | BestVAcc:86.25%
+E103/500 | Loss:0.0230 | TrA:97.15% TrF1:97.15% | VAcc:78.75% VF1:78.75% | ETA:159.4min | BestVAcc:86.25%
+E104/500 | Loss:0.0182 | TrA:96.84% TrF1:96.84% | VAcc:81.25% VF1:81.25% | ETA:158.9min | BestVAcc:86.25%
+E105/500 | Loss:0.0216 | TrA:97.15% TrF1:97.15% | VAcc:82.50% VF1:82.50% | ETA:158.5min | BestVAcc:86.25%
+E106/500 | Loss:0.0474 | TrA:96.84% TrF1:96.84% | VAcc:83.75% VF1:83.75% | ETA:158.0min | BestVAcc:86.25%
+E107/500 | Loss:0.0333 | TrA:96.52% TrF1:96.52% | VAcc:82.50% VF1:82.50% | ETA:157.6min | BestVAcc:86.25%
+E108/500 | Loss:0.0161 | TrA:97.78% TrF1:97.78% | VAcc:85.00% VF1:85.00% | ETA:157.2min | BestVAcc:86.25%
+E109/500 | Loss:0.1451 | TrA:87.97% TrF1:87.97% | VAcc:75.00% VF1:75.00% | ETA:156.5min | BestVAcc:86.25%
+E110/500 | Loss:0.0599 | TrA:92.41% TrF1:92.41% | VAcc:83.75% VF1:83.75% | ETA:155.5min | BestVAcc:86.25%
+E111/500 | Loss:0.0163 | TrA:98.10% TrF1:98.10% | VAcc:83.75% VF1:83.75% | ETA:154.0min | BestVAcc:86.25%
+E112/500 | Loss:0.0135 | TrA:98.10% TrF1:98.10% | VAcc:85.00% VF1:85.00% | ETA:153.1min | BestVAcc:86.25%
+E113/500 | Loss:0.0157 | TrA:99.05% TrF1:99.05% | VAcc:81.25% VF1:81.25% | ETA:152.2min | BestVAcc:86.25%
+E114/500 | Loss:0.0146 | TrA:98.73% TrF1:98.73% | VAcc:85.00% VF1:85.00% | ETA:151.0min | BestVAcc:86.25%
+E115/500 | Loss:0.0223 | TrA:96.84% TrF1:96.84% | VAcc:83.75% VF1:83.75% | ETA:149.9min | BestVAcc:86.25%
+E116/500 | Loss:0.1961 | TrA:89.87% TrF1:89.87% | VAcc:78.75% VF1:78.75% | ETA:148.9min | BestVAcc:86.25%
+E117/500 | Loss:0.0381 | TrA:96.52% TrF1:96.52% | VAcc:82.50% VF1:82.50% | ETA:147.8min | BestVAcc:86.25%
+E118/500 | Loss:0.0479 | TrA:95.25% TrF1:95.25% | VAcc:85.00% VF1:85.00% | ETA:146.6min | BestVAcc:86.25%
+E119/500 | Loss:0.0188 | TrA:97.15% TrF1:97.15% | VAcc:78.75% VF1:78.75% | ETA:146.2min | BestVAcc:86.25%
+E120/500 | Loss:0.0159 | TrA:97.78% TrF1:97.78% | VAcc:85.00% VF1:85.00% | ETA:146.1min | BestVAcc:86.25%
+E121/500 | Loss:0.0181 | TrA:97.15% TrF1:97.15% | VAcc:85.00% VF1:85.00% | ETA:145.7min | BestVAcc:86.25%
+E122/500 | Loss:0.0063 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:145.2min | BestVAcc:86.25%
+E123/500 | Loss:0.0132 | TrA:98.73% TrF1:98.73% | VAcc:85.00% VF1:85.00% | ETA:144.7min | BestVAcc:86.25%
+E124/500 | Loss:0.0373 | TrA:97.78% TrF1:97.78% | VAcc:88.75% VF1:88.75% | ETA:144.5min | BestVAcc:88.75%
+E125/500 | Loss:0.0097 | TrA:98.73% TrF1:98.73% | VAcc:87.50% VF1:87.50% | ETA:144.1min | BestVAcc:88.75%
+E126/500 | Loss:0.0176 | TrA:97.78% TrF1:97.78% | VAcc:85.00% VF1:85.00% | ETA:143.7min | BestVAcc:88.75%
+E127/500 | Loss:0.0600 | TrA:95.25% TrF1:95.25% | VAcc:82.50% VF1:82.50% | ETA:143.5min | BestVAcc:88.75%
+E128/500 | Loss:0.0119 | TrA:98.10% TrF1:98.10% | VAcc:85.00% VF1:85.00% | ETA:143.0min | BestVAcc:88.75%
+E129/500 | Loss:0.0862 | TrA:95.89% TrF1:95.89% | VAcc:85.00% VF1:85.00% | ETA:142.4min | BestVAcc:88.75%
+E130/500 | Loss:0.1276 | TrA:87.66% TrF1:87.66% | VAcc:80.00% VF1:80.00% | ETA:141.7min | BestVAcc:88.75%
+E131/500 | Loss:0.0605 | TrA:93.35% TrF1:93.35% | VAcc:77.50% VF1:77.50% | ETA:141.1min | BestVAcc:88.75%
+E132/500 | Loss:0.0315 | TrA:94.30% TrF1:94.30% | VAcc:83.75% VF1:83.75% | ETA:140.7min | BestVAcc:88.75%
+E133/500 | Loss:0.0351 | TrA:97.15% TrF1:97.15% | VAcc:85.00% VF1:85.00% | ETA:140.3min | BestVAcc:88.75%
+E134/500 | Loss:0.0154 | TrA:98.73% TrF1:98.73% | VAcc:86.25% VF1:86.25% | ETA:139.8min | BestVAcc:88.75%
+E135/500 | Loss:0.0112 | TrA:98.42% TrF1:98.42% | VAcc:87.50% VF1:87.50% | ETA:139.2min | BestVAcc:88.75%
+E136/500 | Loss:0.0044 | TrA:100.00% TrF1:100.00% | VAcc:88.75% VF1:88.75% | ETA:138.9min | BestVAcc:88.75%
+E137/500 | Loss:0.0071 | TrA:98.73% TrF1:98.73% | VAcc:86.25% VF1:86.25% | ETA:138.4min | BestVAcc:88.75%
+E138/500 | Loss:0.0091 | TrA:99.37% TrF1:99.37% | VAcc:87.50% VF1:87.50% | ETA:138.1min | BestVAcc:88.75%
+E139/500 | Loss:0.0044 | TrA:99.68% TrF1:99.68% | VAcc:88.75% VF1:88.75% | ETA:137.7min | BestVAcc:88.75%
+E140/500 | Loss:0.0054 | TrA:99.37% TrF1:99.37% | VAcc:88.75% VF1:88.75% | ETA:137.3min | BestVAcc:88.75%
+E141/500 | Loss:0.0137 | TrA:99.05% TrF1:99.05% | VAcc:83.75% VF1:83.75% | ETA:137.0min | BestVAcc:88.75%
+E142/500 | Loss:0.0212 | TrA:98.10% TrF1:98.10% | VAcc:87.50% VF1:87.50% | ETA:136.7min | BestVAcc:88.75%
+E143/500 | Loss:0.0085 | TrA:98.10% TrF1:98.10% | VAcc:86.25% VF1:86.25% | ETA:136.3min | BestVAcc:88.75%
+E144/500 | Loss:0.0463 | TrA:94.94% TrF1:94.94% | VAcc:88.75% VF1:88.75% | ETA:135.9min | BestVAcc:88.75%
+E145/500 | Loss:0.3506 | TrA:81.01% TrF1:81.01% | VAcc:62.50% VF1:62.50% | ETA:135.5min | BestVAcc:88.75%
+E146/500 | Loss:0.1451 | TrA:87.34% TrF1:87.34% | VAcc:85.00% VF1:85.00% | ETA:135.1min | BestVAcc:88.75%
+E147/500 | Loss:0.0208 | TrA:97.78% TrF1:97.78% | VAcc:87.50% VF1:87.50% | ETA:134.7min | BestVAcc:88.75%
+E148/500 | Loss:0.0205 | TrA:97.78% TrF1:97.78% | VAcc:88.75% VF1:88.75% | ETA:134.2min | BestVAcc:88.75%
+E149/500 | Loss:0.0548 | TrA:96.20% TrF1:96.20% | VAcc:82.50% VF1:82.50% | ETA:133.8min | BestVAcc:88.75%
+E150/500 | Loss:0.0400 | TrA:96.84% TrF1:96.84% | VAcc:85.00% VF1:85.00% | ETA:133.4min | BestVAcc:88.75%
+E151/500 | Loss:0.0165 | TrA:98.73% TrF1:98.73% | VAcc:83.75% VF1:83.75% | ETA:133.0min | BestVAcc:88.75%
+E152/500 | Loss:0.0083 | TrA:99.37% TrF1:99.37% | VAcc:86.25% VF1:86.25% | ETA:132.5min | BestVAcc:88.75%
+E153/500 | Loss:0.0055 | TrA:99.37% TrF1:99.37% | VAcc:86.25% VF1:86.25% | ETA:132.1min | BestVAcc:88.75%
+E154/500 | Loss:0.0208 | TrA:99.05% TrF1:99.05% | VAcc:85.00% VF1:85.00% | ETA:131.8min | BestVAcc:88.75%
+E155/500 | Loss:0.0081 | TrA:99.37% TrF1:99.37% | VAcc:86.25% VF1:86.25% | ETA:131.5min | BestVAcc:88.75%
+E156/500 | Loss:0.0030 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:131.1min | BestVAcc:88.75%
+E157/500 | Loss:0.0071 | TrA:99.05% TrF1:99.05% | VAcc:86.25% VF1:86.25% | ETA:130.8min | BestVAcc:88.75%
+E158/500 | Loss:0.0035 | TrA:99.68% TrF1:99.68% | VAcc:83.75% VF1:83.75% | ETA:130.4min | BestVAcc:88.75%
+E159/500 | Loss:0.0240 | TrA:98.73% TrF1:98.73% | VAcc:88.75% VF1:88.75% | ETA:130.1min | BestVAcc:88.75%
+E160/500 | Loss:0.0026 | TrA:100.00% TrF1:100.00% | VAcc:88.75% VF1:88.75% | ETA:129.8min | BestVAcc:88.75%
+E161/500 | Loss:0.0044 | TrA:99.37% TrF1:99.37% | VAcc:86.25% VF1:86.25% | ETA:129.5min | BestVAcc:88.75%
+E162/500 | Loss:0.0032 | TrA:99.68% TrF1:99.68% | VAcc:88.75% VF1:88.75% | ETA:129.2min | BestVAcc:88.75%
+E163/500 | Loss:0.0024 | TrA:99.68% TrF1:99.68% | VAcc:87.50% VF1:87.50% | ETA:128.8min | BestVAcc:88.75%
+E164/500 | Loss:0.0008 | TrA:100.00% TrF1:100.00% | VAcc:88.75% VF1:88.75% | ETA:128.4min | BestVAcc:88.75%
+E165/500 | Loss:0.0124 | TrA:99.37% TrF1:99.37% | VAcc:86.25% VF1:86.25% | ETA:128.1min | BestVAcc:88.75%
+E166/500 | Loss:0.0121 | TrA:97.78% TrF1:97.78% | VAcc:83.75% VF1:83.75% | ETA:127.7min | BestVAcc:88.75%
+E167/500 | Loss:0.1669 | TrA:90.82% TrF1:90.82% | VAcc:70.00% VF1:70.00% | ETA:127.3min | BestVAcc:88.75%
+E168/500 | Loss:0.2734 | TrA:85.44% TrF1:85.44% | VAcc:81.25% VF1:81.25% | ETA:126.9min | BestVAcc:88.75%
+E169/500 | Loss:0.2857 | TrA:82.59% TrF1:82.59% | VAcc:73.75% VF1:73.75% | ETA:126.5min | BestVAcc:88.75%
+E170/500 | Loss:0.4432 | TrA:80.38% TrF1:80.38% | VAcc:76.25% VF1:76.25% | ETA:126.1min | BestVAcc:88.75%
+E171/500 | Loss:0.1154 | TrA:92.09% TrF1:92.09% | VAcc:82.50% VF1:82.50% | ETA:125.8min | BestVAcc:88.75%
+E172/500 | Loss:0.0515 | TrA:95.89% TrF1:95.89% | VAcc:83.75% VF1:83.75% | ETA:125.3min | BestVAcc:88.75%
+E173/500 | Loss:0.0427 | TrA:95.25% TrF1:95.25% | VAcc:77.50% VF1:77.50% | ETA:125.0min | BestVAcc:88.75%
+E174/500 | Loss:0.0368 | TrA:98.10% TrF1:98.10% | VAcc:82.50% VF1:82.50% | ETA:124.7min | BestVAcc:88.75%
+E175/500 | Loss:0.2087 | TrA:85.76% TrF1:85.76% | VAcc:67.50% VF1:67.50% | ETA:124.4min | BestVAcc:88.75%
+E176/500 | Loss:0.0953 | TrA:89.87% TrF1:89.87% | VAcc:82.50% VF1:82.50% | ETA:124.0min | BestVAcc:88.75%
+E177/500 | Loss:0.0499 | TrA:95.57% TrF1:95.57% | VAcc:83.75% VF1:83.75% | ETA:123.6min | BestVAcc:88.75%
+E178/500 | Loss:0.0130 | TrA:99.05% TrF1:99.05% | VAcc:86.25% VF1:86.25% | ETA:123.3min | BestVAcc:88.75%
+E179/500 | Loss:0.0104 | TrA:98.73% TrF1:98.73% | VAcc:87.50% VF1:87.50% | ETA:122.9min | BestVAcc:88.75%
+E180/500 | Loss:0.0133 | TrA:98.42% TrF1:98.42% | VAcc:85.00% VF1:85.00% | ETA:122.5min | BestVAcc:88.75%
+E181/500 | Loss:0.0132 | TrA:98.10% TrF1:98.10% | VAcc:83.75% VF1:83.75% | ETA:122.1min | BestVAcc:88.75%
+E182/500 | Loss:0.0042 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:121.7min | BestVAcc:88.75%
+E183/500 | Loss:0.0041 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:121.3min | BestVAcc:88.75%
+E184/500 | Loss:0.0028 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:120.9min | BestVAcc:88.75%
+E185/500 | Loss:0.0071 | TrA:99.37% TrF1:99.37% | VAcc:88.75% VF1:88.75% | ETA:120.4min | BestVAcc:88.75%
+E186/500 | Loss:0.0085 | TrA:98.73% TrF1:98.73% | VAcc:87.50% VF1:87.50% | ETA:120.0min | BestVAcc:88.75%
+E187/500 | Loss:0.0042 | TrA:99.68% TrF1:99.68% | VAcc:83.75% VF1:83.75% | ETA:119.7min | BestVAcc:88.75%
+E188/500 | Loss:0.0021 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:119.2min | BestVAcc:88.75%
+E189/500 | Loss:0.0029 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:118.8min | BestVAcc:88.75%
+E190/500 | Loss:0.0064 | TrA:99.05% TrF1:99.05% | VAcc:86.25% VF1:86.25% | ETA:118.5min | BestVAcc:88.75%
+E191/500 | Loss:0.0034 | TrA:99.37% TrF1:99.37% | VAcc:86.25% VF1:86.25% | ETA:118.1min | BestVAcc:88.75%
+E192/500 | Loss:0.0016 | TrA:100.00% TrF1:100.00% | VAcc:87.50% VF1:87.50% | ETA:117.7min | BestVAcc:88.75%
+E193/500 | Loss:0.0012 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:117.4min | BestVAcc:88.75%
+E194/500 | Loss:0.0012 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:117.0min | BestVAcc:88.75%
+E195/500 | Loss:0.0013 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:116.6min | BestVAcc:88.75%
+E196/500 | Loss:0.0013 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:116.2min | BestVAcc:88.75%
+E197/500 | Loss:0.0006 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:115.8min | BestVAcc:88.75%
+E198/500 | Loss:0.0010 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:115.4min | BestVAcc:88.75%
+E199/500 | Loss:0.0006 | TrA:100.00% TrF1:100.00% | VAcc:88.75% VF1:88.75% | ETA:115.0min | BestVAcc:88.75%
+E200/500 | Loss:0.0009 | TrA:100.00% TrF1:100.00% | VAcc:88.75% VF1:88.75% | ETA:114.8min | BestVAcc:88.75%
+E201/500 | Loss:0.0028 | TrA:99.68% TrF1:99.68% | VAcc:86.25% VF1:86.25% | ETA:114.4min | BestVAcc:88.75%
+E202/500 | Loss:0.0190 | TrA:98.42% TrF1:98.42% | VAcc:83.75% VF1:83.75% | ETA:114.0min | BestVAcc:88.75%
+E203/500 | Loss:0.1575 | TrA:93.04% TrF1:93.04% | VAcc:76.25% VF1:76.25% | ETA:113.7min | BestVAcc:88.75%
+E204/500 | Loss:0.1206 | TrA:90.51% TrF1:90.51% | VAcc:80.00% VF1:80.00% | ETA:113.3min | BestVAcc:88.75%
+E205/500 | Loss:0.0665 | TrA:93.99% TrF1:93.99% | VAcc:75.00% VF1:75.00% | ETA:112.9min | BestVAcc:88.75%
+E206/500 | Loss:0.0370 | TrA:96.84% TrF1:96.84% | VAcc:78.75% VF1:78.75% | ETA:112.6min | BestVAcc:88.75%
+E207/500 | Loss:0.1357 | TrA:90.51% TrF1:90.51% | VAcc:76.25% VF1:76.25% | ETA:112.3min | BestVAcc:88.75%
+E208/500 | Loss:0.0441 | TrA:96.20% TrF1:96.20% | VAcc:80.00% VF1:80.00% | ETA:111.8min | BestVAcc:88.75%
+E209/500 | Loss:0.0370 | TrA:96.52% TrF1:96.52% | VAcc:80.00% VF1:80.00% | ETA:111.4min | BestVAcc:88.75%
+E210/500 | Loss:0.0490 | TrA:95.57% TrF1:95.57% | VAcc:85.00% VF1:85.00% | ETA:110.9min | BestVAcc:88.75%
+E211/500 | Loss:0.0420 | TrA:95.25% TrF1:95.25% | VAcc:82.50% VF1:82.50% | ETA:110.5min | BestVAcc:88.75%
+E212/500 | Loss:0.0077 | TrA:99.05% TrF1:99.05% | VAcc:83.75% VF1:83.75% | ETA:110.1min | BestVAcc:88.75%
+E213/500 | Loss:0.0056 | TrA:99.05% TrF1:99.05% | VAcc:81.25% VF1:81.25% | ETA:109.8min | BestVAcc:88.75%
+E214/500 | Loss:0.0042 | TrA:100.00% TrF1:100.00% | VAcc:80.00% VF1:80.00% | ETA:109.4min | BestVAcc:88.75%
+E215/500 | Loss:0.0155 | TrA:99.05% TrF1:99.05% | VAcc:82.50% VF1:82.50% | ETA:109.0min | BestVAcc:88.75%
+E216/500 | Loss:0.0034 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:108.6min | BestVAcc:88.75%
+E217/500 | Loss:0.0022 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:108.2min | BestVAcc:88.75%
+E218/500 | Loss:0.0010 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:107.9min | BestVAcc:88.75%
+E219/500 | Loss:0.0027 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:107.6min | BestVAcc:88.75%
+E220/500 | Loss:0.0007 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:107.3min | BestVAcc:88.75%
+E221/500 | Loss:0.0013 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:106.9min | BestVAcc:88.75%
+E222/500 | Loss:0.0011 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:106.5min | BestVAcc:88.75%
+E223/500 | Loss:0.0124 | TrA:99.05% TrF1:99.05% | VAcc:85.00% VF1:85.00% | ETA:106.0min | BestVAcc:88.75%
+E224/500 | Loss:0.2996 | TrA:85.76% TrF1:85.76% | VAcc:70.00% VF1:70.00% | ETA:105.6min | BestVAcc:88.75%
+E225/500 | Loss:0.3871 | TrA:78.48% TrF1:78.48% | VAcc:77.50% VF1:77.50% | ETA:105.1min | BestVAcc:88.75%
+E226/500 | Loss:0.0726 | TrA:94.30% TrF1:94.30% | VAcc:83.75% VF1:83.75% | ETA:104.7min | BestVAcc:88.75%
+E227/500 | Loss:0.0227 | TrA:98.10% TrF1:98.10% | VAcc:83.75% VF1:83.75% | ETA:104.3min | BestVAcc:88.75%
+E228/500 | Loss:0.1048 | TrA:93.04% TrF1:93.04% | VAcc:81.25% VF1:81.25% | ETA:103.9min | BestVAcc:88.75%
+E229/500 | Loss:0.0977 | TrA:94.30% TrF1:94.30% | VAcc:82.50% VF1:82.50% | ETA:103.4min | BestVAcc:88.75%
+E230/500 | Loss:0.0106 | TrA:99.68% TrF1:99.68% | VAcc:82.50% VF1:82.50% | ETA:102.9min | BestVAcc:88.75%
+E231/500 | Loss:0.0084 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:102.5min | BestVAcc:88.75%
+E232/500 | Loss:0.0037 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:102.1min | BestVAcc:88.75%
+E233/500 | Loss:0.0064 | TrA:99.05% TrF1:99.05% | VAcc:81.25% VF1:81.25% | ETA:101.7min | BestVAcc:88.75%
+E234/500 | Loss:0.0173 | TrA:98.73% TrF1:98.73% | VAcc:83.75% VF1:83.75% | ETA:101.5min | BestVAcc:88.75%
+E235/500 | Loss:0.0029 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:101.2min | BestVAcc:88.75%
+E236/500 | Loss:0.0120 | TrA:99.37% TrF1:99.37% | VAcc:83.75% VF1:83.75% | ETA:100.8min | BestVAcc:88.75%
+E237/500 | Loss:0.0104 | TrA:99.37% TrF1:99.37% | VAcc:85.00% VF1:85.00% | ETA:100.4min | BestVAcc:88.75%
+E238/500 | Loss:0.0466 | TrA:95.57% TrF1:95.57% | VAcc:80.00% VF1:80.00% | ETA:100.0min | BestVAcc:88.75%
+E239/500 | Loss:0.0471 | TrA:96.20% TrF1:96.20% | VAcc:83.75% VF1:83.75% | ETA:99.7min | BestVAcc:88.75%
+E240/500 | Loss:0.0112 | TrA:99.05% TrF1:99.05% | VAcc:83.75% VF1:83.75% | ETA:99.3min | BestVAcc:88.75%
+E241/500 | Loss:0.1045 | TrA:90.51% TrF1:90.51% | VAcc:82.50% VF1:82.50% | ETA:98.9min | BestVAcc:88.75%
+E242/500 | Loss:0.0241 | TrA:96.84% TrF1:96.84% | VAcc:83.75% VF1:83.75% | ETA:98.6min | BestVAcc:88.75%
+E243/500 | Loss:0.0854 | TrA:95.57% TrF1:95.57% | VAcc:81.25% VF1:81.25% | ETA:98.3min | BestVAcc:88.75%
+E244/500 | Loss:0.0831 | TrA:95.57% TrF1:95.57% | VAcc:81.25% VF1:81.25% | ETA:97.7min | BestVAcc:88.75%
+E245/500 | Loss:0.0461 | TrA:95.25% TrF1:95.25% | VAcc:80.00% VF1:80.00% | ETA:97.3min | BestVAcc:88.75%
+E246/500 | Loss:0.0518 | TrA:95.89% TrF1:95.89% | VAcc:82.50% VF1:82.50% | ETA:97.0min | BestVAcc:88.75%
+E247/500 | Loss:0.0071 | TrA:99.37% TrF1:99.37% | VAcc:82.50% VF1:82.50% | ETA:96.5min | BestVAcc:88.75%
+E248/500 | Loss:0.0038 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:96.2min | BestVAcc:88.75%
+E249/500 | Loss:0.0029 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:95.8min | BestVAcc:88.75%
+E250/500 | Loss:0.0033 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:95.4min | BestVAcc:88.75%
+E251/500 | Loss:0.0016 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:95.0min | BestVAcc:88.75%
+E252/500 | Loss:0.0012 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:94.7min | BestVAcc:88.75%
+E253/500 | Loss:0.0015 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:94.3min | BestVAcc:88.75%
+E254/500 | Loss:0.0013 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:93.9min | BestVAcc:88.75%
+E255/500 | Loss:0.0009 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:93.5min | BestVAcc:88.75%
+E256/500 | Loss:0.0008 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:93.0min | BestVAcc:88.75%
+E257/500 | Loss:0.0006 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:92.6min | BestVAcc:88.75%
+E258/500 | Loss:0.0048 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:92.3min | BestVAcc:88.75%
+E259/500 | Loss:0.1991 | TrA:88.92% TrF1:88.92% | VAcc:77.50% VF1:77.50% | ETA:91.9min | BestVAcc:88.75%
+E260/500 | Loss:0.0252 | TrA:97.47% TrF1:97.47% | VAcc:81.25% VF1:81.25% | ETA:91.5min | BestVAcc:88.75%
+E261/500 | Loss:0.0060 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:91.2min | BestVAcc:88.75%
+E262/500 | Loss:0.0026 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:90.8min | BestVAcc:88.75%
+E263/500 | Loss:0.0051 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:90.3min | BestVAcc:88.75%
+E264/500 | Loss:0.0020 | TrA:99.68% TrF1:99.68% | VAcc:85.00% VF1:85.00% | ETA:90.0min | BestVAcc:88.75%
+E265/500 | Loss:0.0176 | TrA:99.05% TrF1:99.05% | VAcc:85.00% VF1:85.00% | ETA:89.6min | BestVAcc:88.75%
+E266/500 | Loss:0.0020 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:89.5min | BestVAcc:88.75%
+E267/500 | Loss:0.0012 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:89.3min | BestVAcc:88.75%
+E268/500 | Loss:0.0027 | TrA:99.68% TrF1:99.68% | VAcc:86.25% VF1:86.25% | ETA:88.9min | BestVAcc:88.75%
+E269/500 | Loss:0.0014 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:88.6min | BestVAcc:88.75%
+E270/500 | Loss:0.0009 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:88.3min | BestVAcc:88.75%
+E271/500 | Loss:0.0004 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:87.9min | BestVAcc:88.75%
+E272/500 | Loss:0.0006 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:87.6min | BestVAcc:88.75%
+E273/500 | Loss:0.0081 | TrA:99.05% TrF1:99.05% | VAcc:83.75% VF1:83.75% | ETA:87.2min | BestVAcc:88.75%
+E274/500 | Loss:0.0025 | TrA:99.68% TrF1:99.68% | VAcc:83.75% VF1:83.75% | ETA:86.9min | BestVAcc:88.75%
+E275/500 | Loss:0.0006 | TrA:100.00% TrF1:100.00% | VAcc:83.75% VF1:83.75% | ETA:86.6min | BestVAcc:88.75%
+E276/500 | Loss:0.0374 | TrA:98.42% TrF1:98.42% | VAcc:87.50% VF1:87.50% | ETA:86.2min | BestVAcc:88.75%
+E277/500 | Loss:0.0033 | TrA:99.37% TrF1:99.37% | VAcc:86.25% VF1:86.25% | ETA:85.8min | BestVAcc:88.75%
+E278/500 | Loss:0.0693 | TrA:96.84% TrF1:96.84% | VAcc:81.25% VF1:81.25% | ETA:85.4min | BestVAcc:88.75%
+E279/500 | Loss:0.0575 | TrA:95.89% TrF1:95.89% | VAcc:85.00% VF1:85.00% | ETA:85.1min | BestVAcc:88.75%
+E280/500 | Loss:0.0299 | TrA:96.52% TrF1:96.52% | VAcc:85.00% VF1:85.00% | ETA:84.7min | BestVAcc:88.75%
+E281/500 | Loss:0.1775 | TrA:93.35% TrF1:93.35% | VAcc:76.25% VF1:76.25% | ETA:84.4min | BestVAcc:88.75%
+E282/500 | Loss:0.1511 | TrA:89.56% TrF1:89.56% | VAcc:85.00% VF1:85.00% | ETA:83.9min | BestVAcc:88.75%
+E283/500 | Loss:0.0584 | TrA:97.15% TrF1:97.15% | VAcc:83.75% VF1:83.75% | ETA:83.5min | BestVAcc:88.75%
+E284/500 | Loss:0.0180 | TrA:99.05% TrF1:99.05% | VAcc:82.50% VF1:82.50% | ETA:83.2min | BestVAcc:88.75%
+E285/500 | Loss:0.0043 | TrA:100.00% TrF1:100.00% | VAcc:85.00% VF1:85.00% | ETA:82.9min | BestVAcc:88.75%
+E286/500 | Loss:0.0074 | TrA:99.37% TrF1:99.37% | VAcc:86.25% VF1:86.25% | ETA:82.3min | BestVAcc:88.75%
+E287/500 | Loss:0.0038 | TrA:100.00% TrF1:100.00% | VAcc:86.25% VF1:86.25% | ETA:81.8min | BestVAcc:88.75%
+E288/500 | Loss:0.0169 | TrA:98.73% TrF1:98.73% | VAcc:81.25% VF1:81.25% | ETA:81.3min | BestVAcc:88.75%
+E289/500 | Loss:0.0255 | TrA:98.73% TrF1:98.73% | VAcc:81.25% VF1:81.25% | ETA:80.8min | BestVAcc:88.75%
+E290/500 | Loss:0.0164 | TrA:97.78% TrF1:97.78% | VAcc:80.00% VF1:80.00% | ETA:80.4min | BestVAcc:88.75%
+E291/500 | Loss:0.3176 | TrA:92.72% TrF1:92.72% | VAcc:63.75% VF1:63.75% | ETA:80.1min | BestVAcc:88.75%
+E292/500 | Loss:0.2514 | TrA:80.38% TrF1:80.38% | VAcc:83.75% VF1:83.75% | ETA:79.8min | BestVAcc:88.75%
+E293/500 | Loss:0.0413 | TrA:95.89% TrF1:95.89% | VAcc:82.50% VF1:82.50% | ETA:79.4min | BestVAcc:88.75%
+E294/500 | Loss:0.0320 | TrA:98.10% TrF1:98.10% | VAcc:83.75% VF1:83.75% | ETA:79.0min | BestVAcc:88.75%
+E295/500 | Loss:0.0355 | TrA:97.47% TrF1:97.47% | VAcc:86.25% VF1:86.25% | ETA:78.6min | BestVAcc:88.75%
+E296/500 | Loss:0.0290 | TrA:98.73% TrF1:98.73% | VAcc:87.50% VF1:87.50% | ETA:78.2min | BestVAcc:88.75%
+E297/500 | Loss:4.3057 | TrA:88.61% TrF1:88.61% | VAcc:27.50% VF1:27.50% | ETA:77.9min | BestVAcc:88.75%
+E298/500 | Loss:7.5037 | TrA:50.00% TrF1:50.00% | VAcc:21.25% VF1:21.25% | ETA:77.6min | BestVAcc:88.75%
+E299/500 | Loss:1.3110 | TrA:30.38% TrF1:30.38% | VAcc:30.00% VF1:30.00% | ETA:77.2min | BestVAcc:88.75%
+E300/500 | Loss:24.7652 | TrA:45.25% TrF1:45.25% | VAcc:46.25% VF1:46.25% | ETA:76.7min | BestVAcc:88.75%
+E301/500 | Loss:0.9832 | TrA:39.24% TrF1:39.24% | VAcc:28.75% VF1:28.75% | ETA:76.3min | BestVAcc:88.75%
+E302/500 | Loss:0.8812 | TrA:35.76% TrF1:35.76% | VAcc:46.25% VF1:46.25% | ETA:75.8min | BestVAcc:88.75%
+E303/500 | Loss:1.0103 | TrA:31.96% TrF1:31.96% | VAcc:22.50% VF1:22.50% | ETA:75.4min | BestVAcc:88.75%
+E304/500 | Loss:8.8296 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:74.9min | BestVAcc:88.75%
+E305/500 | Loss:0.9320 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:74.5min | BestVAcc:88.75%
+E306/500 | Loss:0.9398 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:74.1min | BestVAcc:88.75%
+E307/500 | Loss:0.9365 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:73.6min | BestVAcc:88.75%
+E308/500 | Loss:0.9389 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:73.2min | BestVAcc:88.75%
+E309/500 | Loss:0.9338 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:72.9min | BestVAcc:88.75%
+E310/500 | Loss:0.9380 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:72.6min | BestVAcc:88.75%
+E311/500 | Loss:0.9334 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:72.3min | BestVAcc:88.75%
+E312/500 | Loss:0.9353 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:72.0min | BestVAcc:88.75%
+E313/500 | Loss:0.9364 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:71.6min | BestVAcc:88.75%
+E314/500 | Loss:0.9306 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:71.3min | BestVAcc:88.75%
+E315/500 | Loss:0.9802 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:70.9min | BestVAcc:88.75%
+E316/500 | Loss:0.9362 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:70.6min | BestVAcc:88.75%
+E317/500 | Loss:0.9343 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:70.2min | BestVAcc:88.75%
+E318/500 | Loss:0.9375 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:69.9min | BestVAcc:88.75%
+E319/500 | Loss:0.9380 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:69.5min | BestVAcc:88.75%
+E320/500 | Loss:0.9367 | TrA:27.22% TrF1:27.22% | VAcc:22.50% VF1:22.50% | ETA:69.1min | BestVAcc:88.75%
+E321/500 | Loss:0.9336 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:68.7min | BestVAcc:88.75%
+E322/500 | Loss:0.9388 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:68.2min | BestVAcc:88.75%
+E323/500 | Loss:0.9347 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:67.8min | BestVAcc:88.75%
+E324/500 | Loss:0.9352 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:67.5min | BestVAcc:88.75%
+E325/500 | Loss:0.9351 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:67.0min | BestVAcc:88.75%
+E326/500 | Loss:0.9348 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:66.6min | BestVAcc:88.75%
+E327/500 | Loss:0.9356 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:66.2min | BestVAcc:88.75%
+E328/500 | Loss:0.9354 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:65.8min | BestVAcc:88.75%
+E329/500 | Loss:0.9361 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:65.4min | BestVAcc:88.75%
+E330/500 | Loss:0.9383 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:65.0min | BestVAcc:88.75%
+E331/500 | Loss:0.9368 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:64.6min | BestVAcc:88.75%
+E332/500 | Loss:0.9328 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:64.3min | BestVAcc:88.75%
+E333/500 | Loss:0.9330 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:64.0min | BestVAcc:88.75%
+E334/500 | Loss:0.9338 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:63.6min | BestVAcc:88.75%
+E335/500 | Loss:0.9341 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:63.3min | BestVAcc:88.75%
+E336/500 | Loss:0.9335 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:62.9min | BestVAcc:88.75%
+E337/500 | Loss:0.9381 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:62.5min | BestVAcc:88.75%
+E338/500 | Loss:0.9383 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:62.2min | BestVAcc:88.75%
+E339/500 | Loss:0.9361 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:61.8min | BestVAcc:88.75%
+E340/500 | Loss:0.9346 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:61.4min | BestVAcc:88.75%
+E341/500 | Loss:0.9349 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:61.0min | BestVAcc:88.75%
+E342/500 | Loss:0.9346 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:60.5min | BestVAcc:88.75%
+E343/500 | Loss:0.9343 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:60.1min | BestVAcc:88.75%
+E344/500 | Loss:0.9351 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:59.7min | BestVAcc:88.75%
+E345/500 | Loss:0.9360 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:59.2min | BestVAcc:88.75%
+E346/500 | Loss:0.9386 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:58.8min | BestVAcc:88.75%
+E347/500 | Loss:0.9329 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:58.5min | BestVAcc:88.75%
+E348/500 | Loss:0.9353 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:58.1min | BestVAcc:88.75%
+E349/500 | Loss:0.9392 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:57.6min | BestVAcc:88.75%
+E350/500 | Loss:0.9386 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:57.2min | BestVAcc:88.75%
+E351/500 | Loss:0.9354 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:56.8min | BestVAcc:88.75%
+E352/500 | Loss:0.9406 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:56.4min | BestVAcc:88.75%
+E353/500 | Loss:0.9354 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:56.0min | BestVAcc:88.75%
+E354/500 | Loss:0.9377 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:55.6min | BestVAcc:88.75%
+E355/500 | Loss:0.9397 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:55.2min | BestVAcc:88.75%
+E356/500 | Loss:0.9375 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:54.8min | BestVAcc:88.75%
+E357/500 | Loss:0.9355 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:54.4min | BestVAcc:88.75%
+E358/500 | Loss:0.9379 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:54.0min | BestVAcc:88.75%
+E359/500 | Loss:0.9335 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:53.6min | BestVAcc:88.75%
+E360/500 | Loss:0.9352 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:53.3min | BestVAcc:88.75%
+E361/500 | Loss:0.9344 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:52.9min | BestVAcc:88.75%
+E362/500 | Loss:0.9346 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:52.6min | BestVAcc:88.75%
+E363/500 | Loss:0.9350 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:52.2min | BestVAcc:88.75%
+E364/500 | Loss:0.9339 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:51.9min | BestVAcc:88.75%
+E365/500 | Loss:0.9340 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:51.5min | BestVAcc:88.75%
+E366/500 | Loss:0.9365 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:51.2min | BestVAcc:88.75%
+E367/500 | Loss:0.9352 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:50.8min | BestVAcc:88.75%
+E368/500 | Loss:0.9343 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:50.4min | BestVAcc:88.75%
+E369/500 | Loss:0.9353 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:50.1min | BestVAcc:88.75%
+E370/500 | Loss:0.9359 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:49.7min | BestVAcc:88.75%
+E371/500 | Loss:0.9387 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:49.4min | BestVAcc:88.75%
+E372/500 | Loss:0.9364 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:49.0min | BestVAcc:88.75%
+E373/500 | Loss:0.9357 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:48.6min | BestVAcc:88.75%
+E374/500 | Loss:0.9371 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:48.3min | BestVAcc:88.75%
+E375/500 | Loss:0.9341 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:47.9min | BestVAcc:88.75%
+E376/500 | Loss:0.9390 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:47.5min | BestVAcc:88.75%
+E377/500 | Loss:0.9361 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:47.2min | BestVAcc:88.75%
+E378/500 | Loss:0.9385 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:46.8min | BestVAcc:88.75%
+E379/500 | Loss:0.9356 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:46.5min | BestVAcc:88.75%
+E380/500 | Loss:0.9336 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:46.0min | BestVAcc:88.75%
+E381/500 | Loss:0.9373 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:45.6min | BestVAcc:88.75%
+E382/500 | Loss:0.9359 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:45.2min | BestVAcc:88.75%
+E383/500 | Loss:0.9426 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:44.8min | BestVAcc:88.75%
+E384/500 | Loss:0.9347 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:44.4min | BestVAcc:88.75%
+E385/500 | Loss:0.9381 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:44.0min | BestVAcc:88.75%
+E386/500 | Loss:0.9334 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:43.6min | BestVAcc:88.75%
+E387/500 | Loss:0.9338 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:43.1min | BestVAcc:88.75%
+E388/500 | Loss:0.9341 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:42.7min | BestVAcc:88.75%
+E389/500 | Loss:0.9337 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:42.2min | BestVAcc:88.75%
+E390/500 | Loss:0.9373 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:41.8min | BestVAcc:88.75%
+E391/500 | Loss:0.9341 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:41.5min | BestVAcc:88.75%
+E392/500 | Loss:0.9370 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:41.1min | BestVAcc:88.75%
+E393/500 | Loss:0.9335 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:40.7min | BestVAcc:88.75%
+E394/500 | Loss:0.9394 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:40.3min | BestVAcc:88.75%
+E395/500 | Loss:0.9369 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:40.0min | BestVAcc:88.75%
+E396/500 | Loss:0.9329 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:39.6min | BestVAcc:88.75%
+E397/500 | Loss:0.9382 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:39.3min | BestVAcc:88.75%
+E398/500 | Loss:0.9360 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:38.9min | BestVAcc:88.75%
+E399/500 | Loss:0.9343 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:38.5min | BestVAcc:88.75%
+E400/500 | Loss:0.9329 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:38.2min | BestVAcc:88.75%
+E401/500 | Loss:0.9360 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:37.8min | BestVAcc:88.75%
+E402/500 | Loss:0.9378 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:37.4min | BestVAcc:88.75%
+E403/500 | Loss:0.9379 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:37.1min | BestVAcc:88.75%
+E404/500 | Loss:0.9346 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:36.7min | BestVAcc:88.75%
+E405/500 | Loss:0.9341 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:36.4min | BestVAcc:88.75%
+E406/500 | Loss:0.9341 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:36.0min | BestVAcc:88.75%
+E407/500 | Loss:0.9357 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:35.6min | BestVAcc:88.75%
+E408/500 | Loss:0.9351 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:35.3min | BestVAcc:88.75%
+E409/500 | Loss:0.9353 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:34.9min | BestVAcc:88.75%
+E410/500 | Loss:0.9389 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:34.5min | BestVAcc:88.75%
+E411/500 | Loss:0.9353 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:34.1min | BestVAcc:88.75%
+E412/500 | Loss:0.9366 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:33.7min | BestVAcc:88.75%
+E413/500 | Loss:0.9348 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:33.3min | BestVAcc:88.75%
+E414/500 | Loss:0.9367 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:33.0min | BestVAcc:88.75%
+E415/500 | Loss:0.9396 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:32.6min | BestVAcc:88.75%
+E416/500 | Loss:0.9368 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:32.2min | BestVAcc:88.75%
+E417/500 | Loss:0.9344 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:31.7min | BestVAcc:88.75%
+E418/500 | Loss:0.9339 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:31.3min | BestVAcc:88.75%
+E419/500 | Loss:0.9358 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:30.9min | BestVAcc:88.75%
+E420/500 | Loss:0.9385 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:30.6min | BestVAcc:88.75%
+E421/500 | Loss:0.9349 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:30.2min | BestVAcc:88.75%
+E422/500 | Loss:0.9347 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:29.8min | BestVAcc:88.75%
+E423/500 | Loss:0.9359 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:29.4min | BestVAcc:88.75%
+E424/500 | Loss:0.9350 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:29.0min | BestVAcc:88.75%
+E425/500 | Loss:0.9399 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:28.6min | BestVAcc:88.75%
+E426/500 | Loss:0.9353 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:28.3min | BestVAcc:88.75%
+E427/500 | Loss:0.9339 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:28.0min | BestVAcc:88.75%
+E428/500 | Loss:0.9349 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:27.6min | BestVAcc:88.75%
+E429/500 | Loss:0.9347 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:27.2min | BestVAcc:88.75%
+E430/500 | Loss:0.9333 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:26.9min | BestVAcc:88.75%
+E431/500 | Loss:0.9389 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:26.5min | BestVAcc:88.75%
+E432/500 | Loss:0.9401 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:26.1min | BestVAcc:88.75%
+E433/500 | Loss:0.9355 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:25.8min | BestVAcc:88.75%
+E434/500 | Loss:0.9369 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:25.5min | BestVAcc:88.75%
+E435/500 | Loss:0.9342 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:25.1min | BestVAcc:88.75%
+E436/500 | Loss:0.9407 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:24.7min | BestVAcc:88.75%
+E437/500 | Loss:0.9367 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:24.2min | BestVAcc:88.75%
+E438/500 | Loss:0.9339 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:23.8min | BestVAcc:88.75%
+E439/500 | Loss:0.9354 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:23.4min | BestVAcc:88.75%
+E440/500 | Loss:0.9354 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:23.0min | BestVAcc:88.75%
+E441/500 | Loss:0.9344 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:22.7min | BestVAcc:88.75%
+E442/500 | Loss:0.9366 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:22.2min | BestVAcc:88.75%
+E443/500 | Loss:0.9345 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:21.8min | BestVAcc:88.75%
+E444/500 | Loss:0.9385 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:21.4min | BestVAcc:88.75%
+E445/500 | Loss:0.9401 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:21.0min | BestVAcc:88.75%
+E446/500 | Loss:0.9356 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:20.6min | BestVAcc:88.75%
+E447/500 | Loss:0.9350 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:20.2min | BestVAcc:88.75%
+E448/500 | Loss:0.9364 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:19.8min | BestVAcc:88.75%
+E449/500 | Loss:0.9342 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:19.4min | BestVAcc:88.75%
+E450/500 | Loss:0.9344 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:19.0min | BestVAcc:88.75%
+E451/500 | Loss:0.9350 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:18.7min | BestVAcc:88.75%
+E452/500 | Loss:0.9372 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:18.3min | BestVAcc:88.75%
+E453/500 | Loss:0.9355 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:17.9min | BestVAcc:88.75%
+E454/500 | Loss:0.9384 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:17.5min | BestVAcc:88.75%
+E455/500 | Loss:0.9345 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:17.2min | BestVAcc:88.75%
+E456/500 | Loss:0.9361 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:16.8min | BestVAcc:88.75%
+E457/500 | Loss:0.9339 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:16.4min | BestVAcc:88.75%
+E458/500 | Loss:0.9350 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:16.0min | BestVAcc:88.75%
+E459/500 | Loss:0.9360 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:15.6min | BestVAcc:88.75%
+E460/500 | Loss:0.9394 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:15.2min | BestVAcc:88.75%
+E461/500 | Loss:0.9341 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:14.9min | BestVAcc:88.75%
+E462/500 | Loss:0.9343 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:14.5min | BestVAcc:88.75%
+E463/500 | Loss:0.9399 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:14.1min | BestVAcc:88.75%
+E464/500 | Loss:0.9336 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:13.7min | BestVAcc:88.75%
+E465/500 | Loss:0.9352 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:13.3min | BestVAcc:88.75%
+E466/500 | Loss:0.9377 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:12.9min | BestVAcc:88.75%
+E467/500 | Loss:0.9336 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:12.5min | BestVAcc:88.75%
+E468/500 | Loss:0.9329 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:12.2min | BestVAcc:88.75%
+E469/500 | Loss:0.9340 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:11.8min | BestVAcc:88.75%
+E470/500 | Loss:0.9346 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:11.4min | BestVAcc:88.75%
+E471/500 | Loss:0.9342 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:11.0min | BestVAcc:88.75%
+E472/500 | Loss:0.9354 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:10.7min | BestVAcc:88.75%
+E473/500 | Loss:0.9341 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:10.3min | BestVAcc:88.75%
+E474/500 | Loss:0.9336 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:9.9min | BestVAcc:88.75%
+E475/500 | Loss:0.9355 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:9.5min | BestVAcc:88.75%
+E476/500 | Loss:0.9335 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:9.1min | BestVAcc:88.75%
+E477/500 | Loss:0.9433 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:8.8min | BestVAcc:88.75%
+E478/500 | Loss:0.9338 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:8.4min | BestVAcc:88.75%
+E479/500 | Loss:0.9376 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:8.0min | BestVAcc:88.75%
+E480/500 | Loss:0.9351 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:7.6min | BestVAcc:88.75%
+E481/500 | Loss:0.9337 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:7.2min | BestVAcc:88.75%
+E482/500 | Loss:0.9394 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:6.8min | BestVAcc:88.75%
+E483/500 | Loss:0.9346 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:6.5min | BestVAcc:88.75%
+E484/500 | Loss:0.9357 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:6.1min | BestVAcc:88.75%
+E485/500 | Loss:0.9364 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:5.7min | BestVAcc:88.75%
+E486/500 | Loss:0.9342 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:5.3min | BestVAcc:88.75%
+E487/500 | Loss:0.9338 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:5.0min | BestVAcc:88.75%
+E488/500 | Loss:0.9360 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:4.6min | BestVAcc:88.75%
+E489/500 | Loss:0.9350 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:4.2min | BestVAcc:88.75%
+E490/500 | Loss:0.9323 | TrA:31.33% TrF1:31.33% | VAcc:22.50% VF1:22.50% | ETA:3.8min | BestVAcc:88.75%
+E491/500 | Loss:0.9339 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:3.5min | BestVAcc:88.75%
+E492/500 | Loss:0.9337 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:3.1min | BestVAcc:88.75%
+E493/500 | Loss:0.9343 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:2.7min | BestVAcc:88.75%
+E494/500 | Loss:0.9340 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:2.3min | BestVAcc:88.75%
+E495/500 | Loss:0.9339 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:1.9min | BestVAcc:88.75%
+E496/500 | Loss:0.9379 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:1.5min | BestVAcc:88.75%
+E497/500 | Loss:0.9352 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:1.1min | BestVAcc:88.75%
+E498/500 | Loss:0.9386 | TrA:31.01% TrF1:31.01% | VAcc:22.50% VF1:22.50% | ETA:0.8min | BestVAcc:88.75%
+E499/500 | Loss:0.9374 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:0.4min | BestVAcc:88.75%
+E500/500 | Loss:0.9348 | TrA:30.70% TrF1:30.70% | VAcc:22.50% VF1:22.50% | ETA:0.0min | BestVAcc:88.75%
