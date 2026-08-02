@@ -276,14 +276,15 @@ def main():
     cbar = plt.colorbar(sc, ax=ax, fraction=0.046, pad=0.04)
     cbar.set_label('Normalized GAT attention weight')
 
-    # Highlight top-attention nodes
-    top_k = max(5, N // 10)
-    top_idx = np.argsort(att)[::-1][:top_k]
-    for i in top_idx:
+    # Highlight nodes with genuinely high attention (avoid zero-tie artifacts
+    # from rank-based top-k, since GAT attention is extremely peaked).
+    threshold = 0.1 * att.max()
+    sig_nodes = np.where(att > threshold)[0]
+    for i in sig_nodes:
         x, y = centroids[int(i)]
         ax.scatter(x, y, s=120, facecolors='none', edgecolors='red', linewidths=1.2, zorder=3)
 
-    ax.set_title(f'{N} nodes — color=attention (red ring = top {top_k} attention)')
+    ax.set_title(f'{N} nodes — color=attention (red ring = att > {threshold:.2f})')
     ax.axis('off')
     plt.tight_layout()
     graph_path = os.path.join(out_dir, f'{img_name}_graph_attention.png')

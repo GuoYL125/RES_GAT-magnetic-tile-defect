@@ -119,8 +119,11 @@ def build_and_visualize(model, img_chw, label, save_prefix):
                     c=att_norm, cmap='inferno', norm=Normalize(0, 1),
                     s=80, edgecolors='white', linewidths=0.4, zorder=2)
     plt.colorbar(sc, ax=ax, fraction=0.046, pad=0.04, label='attention')
-    top_k = max(5, N // 10)
-    for i in np.argsort(att)[::-1][:top_k]:
+    # Red-circle only nodes with genuinely high attention (GAT attention is very
+    # peaked, so top-k by rank would catch many zero-attention ties).
+    threshold = 0.1 * att.max()
+    sig_nodes = np.where(att > threshold)[0]
+    for i in sig_nodes:
         x, y = centroids[int(i)]
         ax.scatter(x, y, s=110, facecolors='none', edgecolors='red', linewidths=1.2, zorder=3)
     ax.set_title(f'{CLASSES[label]} — Graph: {N} nodes / {len(edge_pairs)} edges (pred={CLASSES[pred_class]})')
