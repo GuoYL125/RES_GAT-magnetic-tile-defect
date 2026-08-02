@@ -99,7 +99,9 @@ def get_graph_from_image(PIL_image, desired_nodes=224):
     for i in G.nodes:
         h[i, :] = G.nodes[i]["features"]
 
-    image = image.reshape(3, 224, 224)
+    # Convert HWC (224,224,3) to CHW (3,224,224). NOTE: reshape would scramble
+    # channel layout; transpose is the correct channel-first conversion.
+    image = image.transpose(2, 0, 1)
     return h, edges, image
 
 

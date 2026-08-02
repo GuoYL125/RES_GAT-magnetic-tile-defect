@@ -254,8 +254,8 @@ def main(epochs=500, batch_size=8, use_cuda=True):
         print(log)
 
     # Save results
-    util.save_model("best", best_model)
-    torch.save(model.state_dict(), "final.pt")
+    util.save_model("best_fixed", best_model)
+    torch.save(model.state_dict(), "final_fixed.pt")
     print(f"\n{'='*60}")
     print(f"Training complete!")
     print(f"Best validation accuracy: {best_valid_acc:.2f}%")
